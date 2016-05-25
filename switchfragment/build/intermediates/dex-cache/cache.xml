@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\workspace\android_as_git\SwitchFragment\switchfragment\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\workspace\android_as_git\SwitchFragment\switchfragment\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_5ccb503740b695f5ccc2131a42218f8280405a66\classes.dex" />
+    </item>
+    <item
+        jar="C:\androidIde\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\workspace\android_as_git\SwitchFragment\switchfragment\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_30aac44e540bd8e1f4b1876762da131017979e6a\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspace\android_as_git\SwitchFragment\switchfragment\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0323b49f4f2610b48aeb843dd7e7e9f8e38853f9">
+        <dex dex="D:\workspace\android_as_git\SwitchFragment\switchfragment\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2cd6bdebfe31c6f169f66fa7e8d36fcf7f3bbf18\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspace\android_as_git\SwitchFragment\switchfragment\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fc37ace5a0fa5487cdf3ca7d34fabdef3c0230b3">
+        <dex dex="D:\workspace\android_as_git\SwitchFragment\switchfragment\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8a8d4236907b36086bae37fe858984ca87b19a51\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspace\android_as_git\SwitchFragment\switchfragment\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\workspace\android_as_git\SwitchFragment\switchfragment\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_c6e5ebf48dcb4f508535fc416a9b2b8da9166f16\classes.dex" />
+    </item>
+
+</items>

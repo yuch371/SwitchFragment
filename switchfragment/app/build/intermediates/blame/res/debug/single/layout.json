@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\workspace\\android_as_git\\SwitchFragment\\switchfragment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fragment.xml",
+        "source": "D:\\workspace\\android_as_git\\SwitchFragment\\switchfragment\\app\\src\\main\\res\\layout\\activity_fragment.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android_as_git\\SwitchFragment\\switchfragment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank2.xml",
+        "source": "D:\\workspace\\android_as_git\\SwitchFragment\\switchfragment\\app\\src\\main\\res\\layout\\fragment_blank2.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android_as_git\\SwitchFragment\\switchfragment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank4.xml",
+        "source": "D:\\workspace\\android_as_git\\SwitchFragment\\switchfragment\\app\\src\\main\\res\\layout\\fragment_blank4.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android_as_git\\SwitchFragment\\switchfragment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank1.xml",
+        "source": "D:\\workspace\\android_as_git\\SwitchFragment\\switchfragment\\app\\src\\main\\res\\layout\\fragment_blank1.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android_as_git\\SwitchFragment\\switchfragment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank3.xml",
+        "source": "D:\\workspace\\android_as_git\\SwitchFragment\\switchfragment\\app\\src\\main\\res\\layout\\fragment_blank3.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android_as_git\\SwitchFragment\\switchfragment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workspace\\android_as_git\\SwitchFragment\\switchfragment\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

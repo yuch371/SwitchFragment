@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="hdpi"
+    format="7"
+    timestamp="107428066472533" >
+
+    <task
+        name="javac"
+        duration="272" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="92" />
+    <task
+        name="verifier"
+        duration="88" />
+
+    <artifact
+        location="D:\workspace\android_as_git\SwitchFragment\switchfragment\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="107428066472533" >
+        <artifact
+            location="D:\workspace\android_as_git\SwitchFragment\switchfragment\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
